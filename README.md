@@ -11,7 +11,7 @@
 5. 图片资源来自ios端解压缩文件
 
 ## 项目地址, 欢迎 star，issue
- vps ip已经被封 无法在线预览
+
 1. [Vue版](https://github.com/sqaiyan/neteasemusic) ：https://github.com/sqaiyan/neteasemusic
 2. [小程序版](https://github.com/sqaiyan/netmusic-app) ：https://github.com/sqaiyan/netmusic-app
 3. [node后端](https://github.com/sqaiyan/netmusic-node) ：https://github.com/sqaiyan/netmusic-node
