@@ -12,9 +12,9 @@
 
 ## 项目地址, 欢迎 star，issue
 
-1. [Vue版](https://github.com/sqaiyan/neteasemusic) ：https://github.com/sqaiyan/neteasemusic
-2. [小程序版](https://github.com/sqaiyan/netmusic-app) ：https://github.com/sqaiyan/netmusic-app
-3. [node后端](https://github.com/sqaiyan/netmusic-node) ：https://github.com/sqaiyan/netmusic-node
+1. [Vue版](https://github.com/icey830/elvnsaudio-system) ：https://github.com/icey830/elvnsaudio-system
+2. [小程序版](https://github.com/icey830/elvnsaudio-wxapp) ：https://github.com/icey830/ElvnsAudioWxapp
+3. [node后端](https://github.com/icey830/elvns-audio) ：https://github.com/icey830/elvns-audio
 
 
 ## 部署
@@ -23,9 +23,9 @@
 
 ``` bash
 # 克隆node后端代码到本地
-git clone git@github.com:sqaiyan/netmusic-node.git
+git clone git@github.com:icey830/elvns-audio.git
 
-cd netmusic-node 
+cd elvns-audio 
 
 # install dependencies
 npm install 
